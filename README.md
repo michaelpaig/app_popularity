@@ -1,7 +1,7 @@
 # Predicting App Popularity
 
 #### Description
-Tried to predict the popularity of an app using certain features with a Random Forest model. 
+Tried to predict the popularity of an Apple app using certain features with a Random Forest model. 
 You can play around with testing if your app will be popular at [Apple App Popularity](http://192.168.1.9:8501).
 An interactive Tableau visualization was also created to point out outliers on number of languages on an app. 
 
